@@ -1,5 +1,6 @@
 import math
-
+from investor_profiles import INVESTOR_PROFILES
+from stock_universe import MARKET_RETURN, RISK_FREE_RATE, STOCK_UNIVERSE
 # 1. ACT STAGE (Simulated Tool Call)
 def get_stock_data(ticker: str) -> dict:
     """Simulates looking up ticker data from an external source."""
