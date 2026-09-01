@@ -46,3 +46,4 @@ if __name__ == "__main__":
   print(f"\n[BULL AGENT]:\n{result['bull_argument']}")
   print(f"\n[BEAR AGENT]:\n{result['bear_argument']}")
   print(f"\n[SYNTHESIZER AGENT]:\n{result['synthesizer_summary']}")
+
