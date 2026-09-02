@@ -1,3 +1,4 @@
+<img width="702" height="547" alt="ROC_Curve" src="https://github.com/user-attachments/assets/ea08967c-3527-47b4-9d17-46a7d0b308f9" />
 # Credit Risk & Lending ML (`/credit_risk_lending_ml`)
 
 This folder contains the credit risk model, risk-based pricing system, and anomaly detection pipeline for Paytm Postpaid.
